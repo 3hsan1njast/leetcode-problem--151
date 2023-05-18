@@ -1,5 +1,5 @@
 fun main() {
-    val s = "Ayo! Fuck You!"
+    val s = "Say my name X_X"
     val splitStr = s.split(' ')
     val result = reverseList(makeListMutable(splitStr)).joinToString(" ")
     println(result)
